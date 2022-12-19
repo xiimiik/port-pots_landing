@@ -1,4 +1,4 @@
-# Miami Landing
+# Potr Pots Landing
 
 This is a landing page designed with a layout from Figma.
 
